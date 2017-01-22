@@ -9,3 +9,5 @@
 4. in command line, run `export FLASK_APP=app.py`
 
 5. in command line, run `export FLASK_DEBUGGER=1`
+
+6. run `flask run` and follow instructions in terminal
